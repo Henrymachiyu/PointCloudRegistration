@@ -1,1 +1,4 @@
 *.pcd
+.DS_Store
+*.ply
+7-scenes-heads
